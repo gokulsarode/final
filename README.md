@@ -1,5 +1,5 @@
 # Medical Cost Prediction
-Predicting medical costs of individuals based on different features using several ML (Regression) algorithms. The application was deployed on AWS EC2 through AWS ECR (Dockerized Container).
+Predicting medical costs of individuals based on different features using several ML (Regression) algorithms. 
 
 
 ## Dataset
